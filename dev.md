@@ -1,3 +1,1 @@
-hello
-some update
-update from git-kraken
+new dev.md content
